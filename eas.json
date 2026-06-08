@@ -6,7 +6,7 @@
     "preview": {
       "distribution": "internal",
       "android": {
-        "applicationArchiveType": "apk",
+        "buildType": "apk",
         "gradleCommand": ":app:assembleRelease"
       }
     },
