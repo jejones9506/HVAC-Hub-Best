@@ -17,6 +17,13 @@
         "gradleCommand": ":app:assembleRelease"
       }
     },
+    "direct-apk": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk",
+        "gradleCommand": ":app:assembleRelease"
+      }
+    },
     "production": {}
   },
   "submit": {
